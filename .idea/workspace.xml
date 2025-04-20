@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5fbee3bd-2ced-43dc-9be1-a34dde4601d3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson05/build/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson05/build/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson05/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lesson05/src/main.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,18 +17,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "bek-shoyatbek"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;bek-shoyatbek&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:dostonsulaymon/typescript-lessons.git",
-    "accountId": "094b7bfb-fddf-48a4-9469-a7fb3b25a8bc"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:dostonsulaymon/typescript-lessons.git&quot;,
+    &quot;accountId&quot;: &quot;094b7bfb-fddf-48a4-9469-a7fb3b25a8bc&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -50,7 +52,7 @@
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/dostonsulaymon/Desktop/typescript-lessons/src/main.ts",
     "settings.editor.selected.configurable": "preferences.keymap",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3.2.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>

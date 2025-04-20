@@ -1,24 +1,23 @@
 "use strict";
-/* Functions */
-let arr = ["hi", 21, 76, "hey"];
-const myInterface = {
-    name: "Doston",
-    active: true,
-    albums: arr
-};
-console.log(myInterface);
-function myError(msg) {
-    console.log(msg);
-}
-// example of fucking never type
-function neverHappen(value) {
-    if (typeof value === "number") {
-        return value;
+// Generics
+class Doston {
+    constructor(somethings) {
+        this.somethings = somethings;
     }
-    if (typeof value === "string") {
-        return value;
+    getThings() {
+        return this.somethings;
     }
-    return myError("This should never happen.");
+    setThings(things) {
+        this.somethings = things;
+    }
 }
-// @ts-ignore
-console.log(neverHappen(undefined));
+const hello = new Doston([true, false]);
+console.log(hello.getThings());
+const hello2 = new Doston(["true", 22]);
+console.log(hello2.getThings());
+/* Function example */
+function hiWorld(key, value) {
+    console.log(key);
+    console.log(value);
+}
+hiWorld("Hello", [23, 43, "hiWorld"]);
