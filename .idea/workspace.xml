@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fbee3bd-2ced-43dc-9be1-a34dde4601d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lesson07/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson07/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson07/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson07/build/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson07/build/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson07/build/js/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson07/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson07/src/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson07/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson07/tsconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson05/build/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson05/build/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson05/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lesson05/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson06/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lesson06/src/main.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +51,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "com.codeium.enabled": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/PK/doston/typescript-lessons",
@@ -52,10 +62,15 @@
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/dostonsulaymon/Desktop/typescript-lessons/src/main.ts",
     "settings.editor.selected.configurable": "preferences.keymap",
-    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3.2.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PK\doston\typescript-lessons" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
